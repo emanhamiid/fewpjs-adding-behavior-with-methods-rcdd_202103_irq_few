@@ -9,7 +9,7 @@ speak(){
   return this.name + " " +"says woof!";
 }
 }
-const dog = new Dog("","female");
+const dog = new Dog("R","female");
 console.log(dog.speak());
 
 class Cat{
