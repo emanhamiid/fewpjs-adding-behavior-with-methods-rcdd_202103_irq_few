@@ -30,13 +30,13 @@ class Bird{
     this.sex = sex;
   }
   speak(){
-
+    return this.name+ " " +"says"+ " " + "squawk!";
     return "It's me!"+ " " +this.name + "," +" the parrot!";
   }
-  speakk(){
+  speak(){
     return this.name+ " " +"says"+ " " + "squawk!";
 }
 const bird = new Bird("Pablo","");
 console.log(bird.speak());
 const bird2 = new Bird("Mable","");
-console.log(bird2.speakk());
+console.log(bird2.speak());
