@@ -6,7 +6,7 @@ this.name = name;
 this.sex = sex;
 }
 speak(){
-  return this.name + " " "say woof!";
+  return this.name + " "+ "say woof!";
 }
 }
 const dog = new Dog("","female");
