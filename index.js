@@ -42,5 +42,5 @@ class Bird{
 const bird1 = new Bird("Pablo","male");
 console.log(bird.speak());
 
-const bird2 = new Bird("Mable","fem");
+const bird2 = new Bird("Mable","female");
 console.log("Mable"+ " " +"says"+ " " + "squawk!");
