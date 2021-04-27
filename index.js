@@ -10,7 +10,6 @@ speak(){
 }
 }
 const dog = new Dog("","female");
-
 console.log(dog.speak());
 class Cat{
   constructor(name,sex){
