@@ -34,4 +34,4 @@ class Bird{
   }
 }
 const bird = new Bird("","");
-console.log(bird.);
+console.log(bird.speak());
