@@ -17,6 +17,9 @@ class Cat{
     this.name = name;
     this.sex = sex;
   }
+  speak(){
+    return this.name + " " +"says woof!";
+  }
 }
 class Bird{
   constructor(name,sex){
