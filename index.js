@@ -30,7 +30,7 @@ class Bird{
     this.sex = sex;
   }
   speak(){
-    return "it's me!" +this.name + "" +", the parrot!";
+    return "it's me!" +this.name + "," +", the parrot!";
   }
 }
 const bird = new Bird("Mable","");
