@@ -21,7 +21,7 @@ class Cat{
     return this.name + " " +"says meow!";
   }
 }
-const cat = new Dog("","female");
+const cat = new ("","female");
 console.log(dog.speak());
 
 class Bird{
