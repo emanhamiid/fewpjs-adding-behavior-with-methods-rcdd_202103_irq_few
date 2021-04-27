@@ -39,7 +39,7 @@ class Bird{
 
 }
 
-const bird1 = new Bird("Pablo","");
+const bird1 = new Bird("Pablo","male");
 console.log(bird.speak());
 
 const bird2 = new Bird();
