@@ -40,4 +40,4 @@ const bird1 = new Bird("Pablo","");
 console.log(bird.speak());
 
 const bird2 = new Bird("Mable","");
-console.log("M"+ " " +"says"+ " " + "squawk!");
+console.log("Mable"+ " " +"says"+ " " + "squawk!");
