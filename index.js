@@ -39,5 +39,5 @@ class Bird{
 const bird1 = new Bird("Pablo","");
 console.log(bird.speak());
 
-const bird3 = new Bird("Mable","");
+const bird = new Bird("Mable","");
 console.log(this.name+ " " +"says"+ " " + "squawk!");
