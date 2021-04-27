@@ -33,4 +33,4 @@ class Bird{
     return "it's me" + this.name + " " +", the parrot!";
   }
 }
-const bird = new Bird("",)
+const bird = new Bird("","")
