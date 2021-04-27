@@ -33,7 +33,7 @@ class Bird{
     return this.name+ " " +"says"+ " " + "squawk!";
     return "It's me!"+ " " +this.name + "," +" the parrot!";
   }
-  speak(){
+  speakk(){
     return this.name+ " " +"says"+ " " + "squawk!";
 }
 const bird = new Bird("Pablo","");
