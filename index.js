@@ -21,6 +21,8 @@ class Cat{
     return this.name + " " +"says meow!";
   }
 }
+
+
 class Bird{
   constructor(name,sex){
     this.name = name;
