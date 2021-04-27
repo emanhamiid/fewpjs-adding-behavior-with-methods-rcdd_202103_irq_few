@@ -30,6 +30,6 @@ class Bird{
     this.sex = sex;
   }
   speak(){
-    return ""+ this.name + " " +"says meow!";
+    return "" + this.name + " " +"says meow!";
   }
 }
